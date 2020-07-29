@@ -24,4 +24,5 @@
 /app/build.gradle
 /app/src/androidTest
 /app/src/main/res
+/app/src/main/AndroidManifest.xml
 
